@@ -1,9 +1,9 @@
 #Silas Gonçalves 😜
 
-- 🔴 Analista e Desenvolvedor de Sistemas, 
-- 🟠 Especialização em Enegenharia e Arquitetura de Software
-- 🟡 Desenvolvedor Full stack
-- 🟢 Desenvolvedor .Net
+- 🔴  Analista e Desenvolvedor de Sistemas, 
+- 🟠  Especialização em Enegenharia e Arquitetura de Software
+- 🟡  Desenvolvedor Full stack
+- 🟢  Desenvolvedor .Net
 
 <div align="center">
     <a href="https://github.com/silasgoncalvesczs">
