@@ -8,7 +8,7 @@
 <div align="center">
     <a href="https://github.com/silasgoncalvesczs">
         <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=silasgoncalvesczs&show_icons=true&theme=gruvbox&include_all_commits=false&count_private=true" />
+            src="https://github-readme-stats.vercel.app/api?username=silasgoncalvesczs&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasgoncalvesczs&layout=compact&langs_count=5&theme=gruvbox" />
 </div>
