@@ -10,9 +10,10 @@
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api?username=silasgoncalvesczs&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
         <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasgoncalvesczs&layout=compact&langs_count=5&theme=gruvbox" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasgoncalvesczs&layout=compact&langs_count=7&theme=gruvbox" />
 </div>
-  <div style="display: inline_block"><br>
+
+<div style="display: inline_block"><br>
     <img align="center" alt="Silas-Csharp" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Silas-React" height="30" width="40"
@@ -34,5 +35,5 @@
     <img align="center" alt="Silas-Js" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-  
-  ##
+
+##
