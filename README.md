@@ -9,6 +9,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=silasgoncalvesczs&show_icons=true&theme=dark&count_private=true&card_width=450" alt="">
 
+##
+
 <div style="display: inline_block">
     <img align="center" alt="Silas-React" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
