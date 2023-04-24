@@ -7,9 +7,9 @@
 
 ##
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=silasgoncalvesczs&show_icons=true&theme=dark&count_private=true" alt="">
+<img src="https://github-readme-stats.vercel.app/api?username=silasgoncalvesczs&show_icons=true&theme=dark&count_private=true" alt="commits">
      
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasgoncalvesczs&layout=compact&theme=dark" alt="">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasgoncalvesczs&layout=compact&theme=dark" alt="linguagens">
 </div>
 ##
 
