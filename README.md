@@ -1,16 +1,24 @@
 #Silas Gonçalves 😜
 
+- 🟢  Desenvolvedor Full stack
 - 🔴  Analista e Desenvolvedor de Sistemas, 
 - 🟠  Especialização em Enegenharia e Arquitetura de Software
-- 🟡  Desenvolvedor Full stack
-- 🟢  Desenvolvedor .Net
+- 🟡  Desenvolvedor .Net
 
 ##
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=silasgoncalvesczs&show_icons=true&theme=dark&count_private=true" alt="commits">
-     
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasgoncalvesczs&layout=compact&theme=dark" alt="linguagens">
-</div>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=silasgoncalvesczs&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=silasgoncalvesczs&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=silasgoncalvesczs&show_icons=true" />
+</picture>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silasgoncalvesczs&theme=dark&layout=compact)](https://github.com/silasgoncalvesczs)
 ##
 
 <div style="display: inline_block">
