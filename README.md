@@ -2,7 +2,7 @@
 
 - 🟢  Desenvolvedor Full stack
 - 🔴  Analista e Desenvolvedor de Sistemas, 
-- 🟠  Especialização em Enegenharia e Arquitetura de Software
+- 🟠  Especialização em Engenharia e Arquitetura de Software
 - 🟡  Desenvolvedor .Net
 
 ##
