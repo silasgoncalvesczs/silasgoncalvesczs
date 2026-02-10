@@ -6,7 +6,7 @@
 - 🟡  Desenvolvedor .Net
 
 ##
-[![silasgoncalvesczs GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=silasgoncalvesczs&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/silasgoncalvesczs)
+[![silasgoncalvesczs GitHub stats-Dark](Https://Github-Readme-Stats.Vercel.App/Api?Username=Silasgoncalvesczs&Show_Icons=True&Theme=Radical)](https://github.com/silasgoncalvesczs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silasgoncalvesczs&layout=compact&theme=dark)](https://github.com/silasgoncalvesczs)
 ##
