@@ -6,12 +6,6 @@
 - 🟡  Desenvolvedor .Net
 
 ##
-[![silasgoncalvesczs GitHub stats-Dark](Https://Github-Readme-Stats.Vercel.App/Api?Username=Silasgoncalvesczs&Show_Icons=True&Theme=Radical)](https://github.com/silasgoncalvesczs)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silasgoncalvesczs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silasgoncalvesczs&layout=compact&theme=dark)](https://github.com/silasgoncalvesczs)
-##
 
 <div style="display: inline_block">
     <img align="center" alt="Silas-React" height="30" width="40"
