@@ -1,10 +1,10 @@
 #Silas Gonçalves 😜
 
-- 🟢  Desenvolvedor Full stack
-- 🔴  Analista e Desenvolvedor de Sistemas, 
-- 🟠  Especialização em Engenharia e Arquitetura de Software
-- 🟡  Desenvolvedor .Net
-
+- 🟢 Systems Analyst;
+- 🟢 DevOps & Cloud Infrastructure
+- 🟢 Node.js & Kubernetes
+- 🟢 Helping businesses scale securely
+- 🟢 Open to Relocation
 
   https://silasgoncalvesczs.github.io/linktree/
 
