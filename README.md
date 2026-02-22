@@ -1,6 +1,6 @@
 #Silas Gonçalves 😜
 
-- 🟢 Systems Analyst;
+- 🟢 Systems Analyst
 - 🟢 DevOps & Cloud Infrastructure
 - 🟢 Node.js & Kubernetes
 - 🟢 Helping businesses scale securely
