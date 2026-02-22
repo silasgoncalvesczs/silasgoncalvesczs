@@ -1,10 +1,6 @@
 #Silas Gonçalves 😜
 
-- 🟢 Systems Analyst
-- 🟢 DevOps & Cloud Infrastructure
-- 🟢 Node.js & Kubernetes
-- 🟢 Helping businesses scale securely
-- 🟢 Open to Relocation
+- 🟢 Systems Analyst | DevOps & Cloud Infrastructure | Node.js & Kubernetes | Helping businesses scale securely | Open to Relocation
 
   https://silasgoncalvesczs.github.io/linktree/
 
